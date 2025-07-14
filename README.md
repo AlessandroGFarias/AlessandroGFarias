@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alessandro!
 
-Sou um desenvolvedor [mobile | full-stack | front-end] com foco em [React Native, JavaScript, etc.]. Tenho paixão por transformar ideias em produtos funcionais e utilizáveis.
+Sou um desenvolvedor full-stack com foco em Ecossistema JavaScript. Tenho paixão por transformar ideias em produtos funcionais e utilizáveis.
 
 ## 🚀 Tecnologias e Ferramentas
 
