@@ -16,5 +16,5 @@ Sou um desenvolvedor [mobile | full-stack | front-end] com foco em [React Native
 
 ## 📫 Como me encontrar
 
-- [LinkedIn]((https://www.linkedin.com/in/alessandro-grigoria-8bbb33213/))
+- ![LinkedIn](https://www.linkedin.com/in/alessandro-grigoria-8bbb33213/)
 - Email: alessandrogrigoria@gmail.com
