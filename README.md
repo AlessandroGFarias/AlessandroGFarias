@@ -16,5 +16,5 @@ Sou um desenvolvedor full-stack com foco em Ecossistema JavaScript. Tenho paixã
 
 ## 📫 Como me encontrar
 
-- ![LinkedIn](https://www.linkedin.com/in/alessandro-grigoria-8bbb33213/)
+- LinkedIn: https://www.linkedin.com/in/alessandro-grigoria-8bbb33213/
 - Email: alessandrogrigoria@gmail.com
