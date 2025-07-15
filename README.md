@@ -12,7 +12,7 @@ Sou um desenvolvedor full-stack com foco em Ecossistema JavaScript. Tenho paixã
 
 ## 📂 Repositórios em destaque
 
-- 📱 [Finz]([link](https://github.com/AlessandroGFarias/Finax_App)) — App para Controle e Registro de gastos e receitas pessoais.
+- 📱 [Finz](https://github.com/AlessandroGFarias/Finax_App) — App para Controle e Registro de gastos e receitas pessoais.
 
 ## 📫 Como me encontrar
 
